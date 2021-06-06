@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Super G",
+    "description": "Super G",
+    "version": "0.0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://selfregistration.cowin.gov.in/*"
+            ],
+            "js": [
+                "jquery.min.js",
+                "bootstrap.min.js",
+                "model.js",
+                "form.js",
+                "contentScript.js",
+                "captcha-dispatch-event.js",
+                "shortcut.js",
+                "sessionexp.js"
+            ],
+            "css": [
+                "bootstrap.min.css",
+                "custom.css"
+            ]
+        }
+    ],
+    "icons": {
+        "128": "icon.png"
+    }
+}

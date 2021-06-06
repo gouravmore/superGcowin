@@ -1,0 +1,31 @@
+.carousel-item {
+    margin-right: inherit !important;
+}
+
+.btn-outline-primary {
+    background-color: white;
+    color: rgb(13, 110, 253);
+    border-color: rgb(13, 110, 253);
+}
+
+.btn-outline-primary:hover {
+    background-color: transparent;
+    color: rgb(13, 110, 253);
+    border-color: rgb(13, 110, 253);
+}
+
+#cb-timer {
+    font-size: xx-small;
+}
+
+@media (min-width: 992px) {
+    .modal-lg, .modal-xl {
+        max-width: 800px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .modal-xl {
+        max-width: 1140px !important;
+    }
+}
