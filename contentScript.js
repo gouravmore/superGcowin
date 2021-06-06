@@ -1,6 +1,6 @@
 var parsed_model = JSON.parse(atob(model))
 var parser = new DOMParser();
-var confirmedAudioURL = "https://github.com/gouravmore/superGcowin/blob/master/sessionexpired.mp3";
+var confirmedAudioURL = "https://github.com/gouravmore/superGcowin/blob/master/vaccine_Available_now!!!!_thanks_to_Gourav....mp3?raw=true";
 var confirmAudio = new Audio(confirmedAudioURL);
 
 const alreadySetIntervalsForEnableRefresh = [];
