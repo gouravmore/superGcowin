@@ -25,3 +25,4 @@ let skipdays = 0;```
 - Click on the "Load unpacked" and select this cloned repo
 - Now this extension is ready to use
 - Go to https://selfregistration.cowin.gov.in/ and enter otp - that will get into _Your_10dig_mobile_number_
+- As soon as preferred slot is found, it proceeds for booking.
